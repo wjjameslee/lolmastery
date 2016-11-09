@@ -88,17 +88,17 @@ error_reporting(0); // To check for errors change the parameter to E_ALL
 		min-width: 180px;
 		max-width: 300px;
 		left: 65%;
- 	    bottom:22%;
-	background: white;
-	z-index: 99999;
-	border-radius: 10px;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	box-shadow: rgba(0,0,0,0.3) 3px 3px 5px;
-	-moz-box-shadow: rgba(0,0,0,0.3) 3px 3px 5px;
-	-webkit-box-shadow: rgba(0,0,0,0.3) 3px 3px 5px;
-  padding:15px 10px;
-}
+ 	    	bottom:22%;
+		background: white;
+		z-index: 99999;
+		border-radius: 10px;
+		-moz-border-radius: 10px;
+		-webkit-border-radius: 10px;
+		box-shadow: rgba(0,0,0,0.3) 3px 3px 5px;
+		-moz-box-shadow: rgba(0,0,0,0.3) 3px 3px 5px;
+		-webkit-box-shadow: rgba(0,0,0,0.3) 3px 3px 5px;
+  		padding:15px 10px;
+	}
 
 	</style>
 	<title>Champion Mastery Lookup | League of Legends</title>
@@ -108,7 +108,7 @@ error_reporting(0); // To check for errors change the parameter to E_ALL
 		<ul class="cd-slider">
 			<li class="visible">
 				<div class="start">
-					<a href="http://www.github.com/wjjameslee" class="cd-btn"><span>Mastery Lookup</span></a>
+					<a href="https://github.com/wjjameslee/lolmastery" class="cd-btn"><span>Mastery Lookup</span></a>
 				</div>
 			</li>
 				
