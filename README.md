@@ -1,4 +1,4 @@
-# Link here
+# [LolMastery App](lolmastery.000webhostapp.com)
 It's been a while since I have updated things around here, but I'd like to take this opportunity to share something
 that I worked on a couple months ago during the [Riot Games API Challenge of April 2016.](http://na.leagueoflegends.com/en/news/community/contests/riot-games-api-challenge-2016) 
 
@@ -7,7 +7,7 @@ that I worked on a couple months ago during the [Riot Games API Challenge of Apr
 
 ###Features:
 1. Determine a summoner's basic info from JSON encoded Riot Games API
-2. Deliver analysis on a summoner's **best** champion, measured by the greatest Mastery Points
+2. Delivers analysis on a summoner's **best** champion, indicative of the champion with the most Mastery Points
 3. Produce a sliding puzzle, which depicts *that champion*. For entertainment purposes!
 
 ###BUGS/ERRORS:
