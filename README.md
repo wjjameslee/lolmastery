@@ -1,4 +1,4 @@
-# [LolMastery App](lolmastery.000webhostapp.com)
+# [LolMastery App](https://lolmastery.000webhostapp.com)
 It's been a while since I have updated things around here, but I'd like to take this opportunity to share something
 that I worked on a couple months ago during the [Riot Games API Challenge of April 2016.](http://na.leagueoflegends.com/en/news/community/contests/riot-games-api-challenge-2016) 
 
