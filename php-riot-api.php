@@ -24,7 +24,7 @@ class riotapi {
 
 
 	// **REPLACE** with individual key
-	const API_KEY = '2c1f6ef9-ce9f-4383-bd36-f296bff2fbad';
+	const API_KEY = ''; // ENTER API-KEY HERE
 
 	// Rate limit for 10 minutes
 	const LONG_LIMIT_INTERVAL = 600;
